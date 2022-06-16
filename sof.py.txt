@@ -20,3 +20,6 @@ while ("true"):
         print(sonuc)
     else:
         print("hatalı giriş..."
+        
+        
+        rtrrtrtrt
