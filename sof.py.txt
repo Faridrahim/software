@@ -19,7 +19,4 @@ while ("true"):
         sonuc=a/b
         print(sonuc)
     else:
-        print("hatalı giriş..."
-        
-        
-        rtrrtrtrt
+        print("hatalı giriş...
